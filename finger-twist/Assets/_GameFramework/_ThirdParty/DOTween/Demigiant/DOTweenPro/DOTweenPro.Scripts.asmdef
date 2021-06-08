@@ -1,0 +1,17 @@
+{
+    "name": "DOTweenPro.Scripts",
+    "references": [
+        "DOTween.Modules",
+        "DOTweenAD",
+        "DOTweenAD.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

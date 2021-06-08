@@ -1,0 +1,14 @@
+{
+    "name": "DOTweenAD",
+    "references": [
+        "DOTween.Modules"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": false,
+    "defineConstraints": []
+}

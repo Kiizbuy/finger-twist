@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dcc97aec9ff3c5d4e95fbac69a44ede6, type: 3}
+  m_Name: DefaultAppFolder
+  m_EditorClassIdentifier: 
+  folderList:
+  - folderName: _ThirdParty
+  - folderName: _App
+  - folderName: _App/Scripts
+  - folderName: _App/Scripts/Shaders
+  - folderName: _App/Scripts/Editor
+  - folderName: _App/Resources
+  - folderName: _App/Prefabs
+  - folderName: _App/Models
+  - folderName: _App/Textures
+  - folderName: _App/Sprites
+  - folderName: _App/Sprites/UI
+  - folderName: _App/Editor
+  - folderName: _App/Prototyping
+  - folderName: _App/SFX
+  - folderName: _App/SFX/Sounds
+  - folderName: _App/SFX/Music
+  - folderName: _App/VFX
